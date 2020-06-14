@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+    <string name="text_one_msg">One is the loneliest number that you\'ll ever do\n
+                                Two can be as bad as one\n
+                                It\'s the loneliest number since the number one\n
+                                No is the saddest experience you\'ll ever know\n
+                                Yes, it\'s the saddest experience you\'ll ever know\n
+                                \'Cause one is the loneliest number that you\'ll ever do\n
+                                One is the loneliest number, worse than two\n
+                                It\'s just no good anymore since you went away\n
+                                Now, I spend my time just making rhymes of yesterday\n
+                                One is the loneliest number\n
+                                One is the loneliest number\n
+                                One is the loneliest number that you\'ll ever do\n
+                                One is the loneliest\n
+                                One is the loneliest\n
+                                One is the loneliest number that you\'ll ever do\n
+                                It\'s just no good anymore since you went away\n
+                                One is the loneliest\n
+                                (Number) One is the loneliest\n
+                                (Number) One is the loneliest number that you\'ll ever do\n
+                                (Number) One is the loneliest\n
+                                (Number) One is the loneliest\n
+                                (Number) One is the loneliest number that you\'ll ever do\n
+                                Ha-ah-ha (Yeah)\n
+                                (Number) One is the loneliest number that you\'ll ever do (number)\n
+                                One is the loneliest number that you\'ll ever do\n
+                                (Number) One is the loneliest number that you\'ll ever do
+    </string>
+    <string name="text_two_msg">It was the last day of summer\n
+                                It was the first of a new romance\n
+                                He walked into her on the corner\n
+                                She said, \'I don\'t dance\'\n
+                                He said, \'Baby let me teach you\'\n
+                                She said, \'O.K., when?\'\n
+                                He said, \'How can I reach you baby\n
+                                I\'d really like to see you again\'\n
+                                He picked her up on a Friday night\n
+                                He took her for a bite to eat\n
+                                His heart was beating and his hands were shaking\n
+                                She thought he was sweet\n
+                                And he stood on her shoes on the dance floor\n
+                                Well, they were doing it cheek to cheek\n
+                                And he walked her home and he kissed her\n
+                                He was walking on air all week\n
+                                Well, they couldn\'t stand to be apart\n
+                                They couldn\'t leave one another alone\n
+                                Her mama used to say, \'It\'s getting late sweetheart\n
+                                It\'s time that boy went home\'\n
+                                And upstairs papa kissed mama\n
+                                And she gave him a sweet caress\n
+                                He said, \'Here\'s to the two young lovers\n
+                                Let\'s wish \'em every happiness\'\n
+                                It was the last day of summer\n
+                                They came walking home hand in hand\n
+                                They went and told her mama\n
+                                They showed her the wedding band\n
+                                Mama cried and poured the wine\n
+                                Papa just said God Bless\n
+                                Now, here\'s to the two young lovers\n
+                                Let\'s wish \'em every happiness
+    </string>
+    <string name="text_three_msg">  Don\'t worry about a thing\n
+                                    \'Cause every little thing gonna be alright\n
+                                    Singing\' don\'t worry about a thing\n
+                                    \'Cause every little thing gonna be alright\n
+                                    Rise up this mornin\'\n
+                                    Smiled with the risin\' sun\n
+                                    Three little birds\n
+                                    Pitch by my doorstep\n
+                                    Singin\' sweet songs\n
+                                    Of melodies pure and true\n
+                                    Saying\', (this is my message to you)\n
+                                    Singing\' don\'t worry \'bout a thing\n
+                                    \'Cause every little thing gonna be alright\n
+                                    Singing\' don\'t worry (don\'t worry) \'bout a thing\n
+                                    \'Cause every little thing gonna be alright\n
+                                    Rise up this mornin\'\nă
+                                    Smiled with the risin\' sun\n
+                                    Three little birds\n
+                                    Pitch by my doorstep\n
+                                    Singin\' sweet songs\n
+                                    Of melodies pure and true\n
+                                    Sayin\', this is my message to you\n
+                                    Singin\' don\'t worry about a thing, worry about a thing, oh\n
+                                    Every little thing gonna be alright, don\'t worry\n
+                                    Singin\'…
+    </string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reply_received">Reply received</string>
+    <string name="message_received">Message received</string>
+    <string name="website_url">Website URL</string>
+    <string name="open_website">Open Website</string>
+    <string name="location">Location</string>
+    <string name="open_location">Open Location</string>
+    <string name="text">Text</string>
+    <string name="share_text">Share text</string>
+    <string name="phone_number">Phone number</string>
+    <string name="call">Call</string>
+</resources>
